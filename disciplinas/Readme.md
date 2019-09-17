@@ -2,7 +2,7 @@
 
 + SOP29005 - Sistemas Operacionais - Engenharia de Telecomunicações
 
-+ ADS29009 - Avaliação de Desempenho de Sistemas - - Engenharia de Telecomunicações
++ ADS29009 - Avaliação de Desempenho de Sistemas - Engenharia de Telecomunicações
 
 # Disciplinas que já atuei no passado
 
