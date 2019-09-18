@@ -24,3 +24,4 @@ Ao final do curso os alunos deverão ser capazes de:
 ## Metodologia de abordagem
 
 Aulas expositivas e dialogadas com o uso de lousa e projetor multimídia; roteiros de atividades em laboratório para aquisição de habilidades básicas; provas e projetos baseados no conteúdo programático para verificar aplicação dos conceitos abordados.
+
