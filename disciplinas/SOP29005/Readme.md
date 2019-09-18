@@ -1,5 +1,5 @@
-# Nome do componente curricular
-Sistemas Operacionais
+# Sistemas Operacionais
+
 
 ## Ementa
 Introdução aos sistemas operacionais. Aspectos internos de gerenciamento de processos, do sistema de arquivos, de memória e de dispositivos de entrada/saída. Aspectos de segurança e proteção. Conceito de API. Interfaces com o usuário. 
